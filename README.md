@@ -10,6 +10,10 @@ run `yarn` or `npm i`
 
 run `yarn dev`
 
-# See project online
+# Online project
 
 Click [here](https://puppo.github.io/MUG-2022-ts-best-practices/)
+
+# Slides
+
+Click [here](https://speakerdeck.com/puppo/can-typescript-definitions-survive-even-at-runtime)
